@@ -1,0 +1,352 @@
+[
+  {
+    "state": "alabama",
+	"abbrev": "al",
+    "flower": "camellia",
+    "capital": "montgomery",
+	"population": 4887680
+  },
+  {
+    "state": "alaska",
+	"abbrev": "ak",
+    "flower": "forget me not",
+    "capital": "juneau",
+	"population": 735139
+  },
+  {
+    "state": "arizona",
+	"abbrev": "az",
+    "flower": "saguaro cactus blossom",
+    "capital": "phoenix",
+	"population": 7158020
+  },
+  {
+    "state": "arkansas",
+	"abbrev": "ar",
+    "flower": "apple blossom",
+    "capital": "little rock",
+	"population": 3009730
+  },
+  {
+    "state": "california",
+	"abbrev": "ca",
+    "flower": "california poppy",
+    "capital": "sacramento",
+	"population": 39461600
+  },
+  {
+    "state": "colorado",
+	"abbrev": "co",
+    "flower": "white and lavender columbine",
+    "capital": "denver",
+	"population": 5691290
+  },
+  {
+    "state": "connecticut",
+	"abbrev": "ct",
+    "flower": "mountain laurel",
+    "capital": "hartford",
+	"population": 3571520
+  },
+  {
+    "state": "delaware",
+	"abbrev": "de",
+    "flower": "peach blossom",
+    "capital": "dover",
+	"population": 965479
+  },
+  {
+    "state": "florida",
+	"abbrev": "fl",
+    "flower": "orange blossom",
+    "capital": "tallahassee",
+	"population": 21244300
+  },
+  {
+    "state": "georgia",
+	"abbrev": "ga",
+    "flower": "cherokee rose",
+    "capital": "atlanta",
+	"population": 10511100
+  },
+  {
+    "state": "hawaii",
+	"abbrev": "hi",
+    "flower": "Pua Aloalo",
+    "capital": "honolulu",
+	"population": 1420590
+  },
+  {
+    "state": "idaho",
+	"abbrev": "id",
+    "flower": "syringa",
+    "capital": "boise",
+	"population": 1750540
+  },
+  {
+    "state": "illinois",
+	"abbrev": "il",
+    "flower": "purple violet",
+    "capital": "springfield",
+	"population": 12723100
+  },
+  {
+    "state": "indiana",
+	"abbrev": "in",
+    "flower": "peony",
+    "capital": "indianapolis",
+	"population": 6695500
+  },
+  {
+    "state": "iowa",
+	"abbrev": "ia",
+    "flower": "wild prairie rose",
+    "capital": "des moines",
+	"population": 3148620
+  },
+  {
+    "state": "kansas",
+	"abbrev": "ks",
+    "flower": "sunflower",
+    "capital": "topeka",
+	"population": 2911360
+  },
+  {
+    "state": "kentucky",
+	"abbrev": "ky",
+    "flower": "goldenrod",
+    "capital": "frankfort",
+	"population": 4461150
+  },
+  {
+    "state": "louisiana",
+	"abbrev": "la",
+    "flower": "magnolia",
+    "capital": "baton rouge",
+	"population": 4659690
+  },
+  {
+    "state": "maine",
+	"abbrev": "me",
+    "flower": "white pine cone and tassel",
+    "capital": "augusta",
+	"population": 1339060
+  },
+  {
+    "state": "maryland",
+	"abbrev": "md",
+    "flower": "black-eyed susan",
+    "capital": "annapolis",
+	"population": 6035800
+  },
+  {
+    "state": "massachusetts",
+	"abbrev": "ma",
+    "flower": "mayflower",
+    "capital": "boston",
+	"population": 6882640
+  },
+  {
+    "state": "michigan",
+	"abbrev": "mi",
+    "flower": "apple blossom",
+    "capital": "lansing",
+	"population": 9984070
+  },
+  {
+    "state": "minnesota",
+	"abbrev": "mn",
+    "flower": "pink and white lady slipper",
+    "capital": "saint paul",
+	"population": 5606250
+  },
+  {
+    "state": "mississippi",
+	"abbrev": "ms",
+    "flower": "magnolia",
+    "capital": "jackson",
+	"population": 2981020
+  },
+  {
+    "state": "missouri",
+	"abbrev": "mo",
+    "flower": "white hawthorn blossom",
+    "capital": "jefferson city",
+	"population": 6121620
+  },
+  {
+    "state": "montana",
+	"abbrev": "mt",
+    "flower": "bitterroot",
+    "capital": "helena",
+	"population": 1060660
+  },
+  {
+    "state": "nebraska",
+	"abbrev": "ne",
+    "flower": "goldenrod",
+    "capital": "lincoln",
+	"population": 1925610
+  },
+  {
+    "state": "nevada",
+	"abbrev": "nv",
+    "flower": "sagebrush",
+    "capital": "carson city",
+	"population": 3027340
+  },
+  {
+    "state": "new hampshire",
+	"abbrev": "nh",
+    "flower": "purple lilac",
+    "capital": "concord",
+	"population": 1353460
+  },
+  {
+    "state": "new jersey",
+	"abbrev": "nj",
+    "flower": "violet",
+    "capital": "trenton",
+	"population": 8886020
+  },
+  {
+    "state": "new mexico",
+	"abbrev": "nm",
+    "flower": "yucca flower",
+    "capital": "santa fe",
+	"population": 2092740
+  },
+  {
+    "state": "new york",
+	"abbrev": "ny",
+    "flower": "rose",
+    "capital": "albany",
+	"population": 19530400
+  },
+  {
+    "state": "north carolina",
+	"abbrev": "nc",
+    "flower": "dogwood",
+    "capital": "raleigh",
+	"population": 10381600
+  },
+  {
+    "state": "north dakota",
+	"abbrev": "nd",
+    "flower": "wild prairie rose",
+    "capital": "bismarck",
+	"population": 758080
+  },
+  {
+    "state": "ohio",
+	"abbrev": "oh",
+    "flower": "scarlet carnation",
+    "capital": "columbus",
+	"population": 11676300
+  },
+  {
+    "state": "oklahoma",
+	"abbrev": "ok",
+    "flower": "mistletoe",
+    "capital": "oklahoma city",
+	"population": 3940240
+  },
+  {
+    "state": "oregon",
+	"abbrev": "or",
+    "flower": "oregon grape",
+    "capital": "salem",
+	"population": 4181890
+  },
+  {
+    "state": "pennsylvania",
+	"abbrev": "pa",
+    "flower": "mountain laurel",
+    "capital": "harrisburg",
+	"population": 12800900
+  },
+  {
+    "state": "rhode island",
+	"abbrev": "ri",
+    "flower": "violet",
+    "capital": "providence",
+	"population": 1058290
+  },
+  {
+    "state": "south carolina",
+	"abbrev": "sc",
+    "flower": "yellow jessamine",
+    "capital": "columbia",
+	"population": 5084160
+  },
+  {
+    "state": "south dakota",
+	"abbrev": "sd",
+    "flower": "pasque flower",
+    "capital": "pierre",
+	"population": 878698
+  },
+  {
+    "state": "tennessee",
+	"abbrev": "tn",
+    "flower": "iris",
+    "capital": "nashville",
+	"population": 6771630
+  },
+  {
+    "state": "texas",
+	"abbrev": "tx",
+    "flower": "bluebonnet",
+    "capital": "austin",
+	"population": 28628700
+  },
+  {
+    "state": "utah",
+	"abbrev": "ut",
+    "flower": "sego lily",
+    "capital": "salt lake city",
+	"population": 3153550
+  },
+  {
+    "state": "vermont",
+	"abbrev": "vt",
+    "flower": "red clover",
+    "capital": "montpelier",
+	"population": 624358
+  },
+  {
+    "state": "virginia",
+	"abbrev": "va",
+    "flower": "dogwood",
+    "capital": "richmond",
+	"population": 8501290
+  },
+  {
+    "state": "washington",
+	"abbrev": "wa",
+    "flower": "Coast Rhododendron",
+    "capital": "olympia",
+	"population": 7523870
+  },
+  {
+    "state": "west virginia",
+	"abbrev": "wv",
+    "flower": "rhododendron",
+    "capital": "charleston",
+	"population": 1804290
+  },
+  {
+    "state": "wisconsin",
+	"abbrev": "wi",
+    "flower": "wood violet",
+    "capital": "madison",
+	"population": 5807410
+  },
+  {
+    "state": "wyoming",
+	"abbrev": "wy",
+    "flower": "indian paintbrush",
+    "capital": "cheyenne",
+	"population": 577601
+  }
+]

@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: mpimg
+Version: 0.0.1
+Summary: generator for wechat mp platform
+Home-page: https://github.com/bestony/mpimg
+Author: HuanCheng Bai
+Author-email: bestony@linux.com
+License: APACHE
+Description: UNKNOWN
+Keywords: image generate
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
